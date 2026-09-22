@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shruti Goyal 👋</h1>
-<h3 align="center">AI Engineer building production-grade Agentic AI systems @ Cars24</h3>
+<h3 align="center">AI Engineer building production-grade Agentic AI systems</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shruti-goyal-1301/">
