@@ -11,19 +11,18 @@
 </p>
 
 ---
-
+ 
 ### 🚀 About Me
-
-- 🤖 I design and ship **agentic AI platforms** — chat & voice bots, RAG pipelines, and conversation-intelligence systems running in production at **Cars24**, handling **25K+ sessions/day**
-- 🧠 Previously built ML/NLP systems for logistics & healthcare at **Tata 1mg**
+ 
+- 🤖 I design and ship **agentic AI platforms** — chat & voice bots, RAG pipelines, and conversation-intelligence systems running in production, handling **25K+ sessions/day**
+- 🧠 Background spans ML/NLP systems across logistics, healthcare, and e-commerce domains
 - 🛠️ I work across the full stack: LLM orchestration → evaluation → observability → deployment
 - 📄 Co-author of a published paper on fake-review detection (ICCCIS 2022)
 - 🌱 Always learning — currently going deeper into multi-agent systems & LLM evaluation frameworks
-
 ---
-
+ 
 ### 💡 What I've Built
-
+ 
 | Project | Impact |
 |---|---|
 | **Agentic AI Platform** (chat + voice) | 25K+ daily sessions, tool calling, RAG, Langfuse tracing |
@@ -32,7 +31,7 @@
 | **Document Intelligence (OCR + Extraction)** | 10K+ docs/day, ~10s avg latency |
 | **Chronicle** (Mem0-backed decision engine) | +23% CTR vs CleverTap, 780 incremental store visits/month |
 | **GKE/KServe Document Service** | 75% less manual verification, ~₹4 Cr annual savings |
-
+ 
 ---
 
 ### 🧰 Tech Stack
