@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer building production-grade Agentic AI systems</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shruti-goyal-1301/">
+  <a href="https://www.linkedin.com/in/-shruti-goyal/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:shrutigoyal1301@gmail.com">
